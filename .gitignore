@@ -1,0 +1,5 @@
+# Keep private source material and local files out of the public repository.
+*.env
+.DS_Store
+private/
+incoming-unreviewed/

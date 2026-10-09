@@ -1,0 +1,29 @@
+{
+  "$schema": "../schemas/dataset-metadata.schema.json",
+  "id": "replace-with-stable-dataset-id",
+  "title": "Replace with dataset title",
+  "product": {
+    "slug": "replace-with-product-slug",
+    "grade": "replace-if-applicable"
+  },
+  "sourceType": "instrument-export",
+  "sample": {
+    "description": "Public or anonymized sample description",
+    "testedAt": "YYYY-MM-DD",
+    "testingUnit": "Organization or laboratory"
+  },
+  "method": {
+    "name": "Test method or procedure",
+    "standard": "Applicable standard, if any",
+    "instrument": "Instrument/model, if publishable"
+  },
+  "units": {
+    "replace-measurement": "replace-unit"
+  },
+  "revision": "v1.0.0",
+  "publishedAt": "YYYY-MM-DD",
+  "limitations": [
+    "State the material limitations and applicability here."
+  ],
+  "officialSource": "https://www.zacopper.com/"
+}
